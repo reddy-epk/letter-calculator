@@ -20,9 +20,6 @@ In this project, let's build a **Letters Calculator** by applying the concepts w
 </details>
 
 
-
-</details>
-
 > ### _Things to Keep in Mind_
 >
 > - All components you implement should go in the `src/components` directory.

@@ -1,4 +1,4 @@
-In this project, let's build a **Letters Calculator** by applying the concepts we have learned till now.
+Building a react **Letters Calculator** by using event listener's and class components 
 
 ### Refer to the image below:
 
